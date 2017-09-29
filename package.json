@@ -1,5 +1,6 @@
 {
-  "name": "nextjs boilerplate with TypeScript",
+  "name": "nextapp",
+  "description": "nextjs boilerplate with TypeScript",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
